@@ -1,0 +1,13 @@
+.sideContainer{
+    display: flex;
+    flex-direction: column;
+    background-color: purple;
+    gap:20px;
+    padding: 10px;
+
+    align-items: start;
+
+    width:fit-content;
+    margin: 0 auto;
+
+}
