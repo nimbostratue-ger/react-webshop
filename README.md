@@ -12,7 +12,7 @@ A modern **React webshop interface** showcasing a scalable and performant **mult
 
 ## 📸 Preview
 
-*Add a screenshot or GIF here (you can drag & drop into GitHub README)*
+<img width="1801" height="914" alt="image" src="https://github.com/user-attachments/assets/1ff2341c-5ce4-498a-bfed-ac1598815e25" />
 
 ---
 
