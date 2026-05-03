@@ -6,7 +6,7 @@ A modern **React webshop interface** showcasing a scalable and performant **mult
 
 ## 🔗 Live Demo
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-React%20Webshop-0A66C2?style=for-the-badge&logo=github)](https://nimbostratue-ger.github.io/react-webshop/)
+[![Open Webshop](https://img.shields.io/badge/🚀%20Open%20Webshop-Live%20Demo-brightgreen?style=for-the-badge)](https://nimbostratue-ger.github.io/react-webshop/)
 
 ---
 
