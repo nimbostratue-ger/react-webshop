@@ -1,6 +1,6 @@
 # 🛒 React Webshop
 
-A modern **React webshop interface** showcasing a scalable and performant **multi-filtering system** using real-world UI patterns.
+A **React webshop interface** showcasing a scalable and performant **multi-filtering system** using real-world UI patterns.
 
 ---
 
