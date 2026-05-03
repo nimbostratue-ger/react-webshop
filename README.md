@@ -4,6 +4,16 @@ A **React webshop interface** showcasing a scalable and performant **multi-filte
 
 ---
 
+## 🎯 Purpose
+
+Built to demonstrate:
+
+* Multi-criteria filtering in React
+* State-driven UI updates
+* Modular component design
+
+---
+
 ## 🔗 Live Demo
 
 [![Live Demo - Open Webshop](https://img.shields.io/badge/Live%20Demo%20--%20Open%20Webshop-228B22?style=for-the-badge)](https://nimbostratue-ger.github.io/react-webshop/)
@@ -112,15 +122,5 @@ npm run dev
 ## 📄 License
 
 This project is for educational purposes.
-
----
-
-## 👨‍💻 Author
-
-Built to demonstrate:
-
-* State management in React
-* Efficient filtering logic
-* Clean component architecture
 
 ---
